@@ -6,6 +6,12 @@ body{
 .hola{
 	color: #ffff
 }
+.letra{
+	color: #fff
+}
+.black{
+	color:black;
+}
 .boton-movil{
 	display: none;
 	float: right;
@@ -271,7 +277,7 @@ address{
 	background-image: url(http://www.fondobook.com/wp-content/uploads/2011/11/e_hd169_IMG_0389-1.jpg);
 	background-position: bottom right;
 	background-repeat: no-repeat;
-	background-color: black;
+	background-image: url(https://s.barraques.cat/pngfile/s/28-289555_sparkly-fondo-de-pantalla-cool-backgrounds-for-youtube.jpg);
 	background-size: cover;
 }
 footer{
